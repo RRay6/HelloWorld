@@ -33,11 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No difficulties with creating this application! CodePath's walkthrough videos were clear and concise.
+Link to walkthroughs: https://vimeo.com/727439517
 
 ## License
 
-    Copyright [2022] [Riyanka Ray]
+    Copyright 2022 Riyanka Ray
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
