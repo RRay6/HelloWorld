@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 No difficulties with creating this application! CodePath's walkthrough videos were clear and concise.
+
 Link to walkthroughs: https://vimeo.com/727439517
 
 ## License
